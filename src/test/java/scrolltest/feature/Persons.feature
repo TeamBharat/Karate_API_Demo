@@ -1,5 +1,3 @@
-
-
 Feature: Verify Persons
 
   Background:
