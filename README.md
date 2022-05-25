@@ -1,4 +1,4 @@
-# KarateAPIAutomation
+# Karate API Automation
 Why we Need Karate API Testing?
 - Open source - API Testing, Mocking, - Performance Testing, - UI Automation, Reporting - Parallel Execution - BDD Style, Native JSON/XML support. - Readable syntax. - Mix API and UI test-automation 
 
