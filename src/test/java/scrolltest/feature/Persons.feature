@@ -1,5 +1,4 @@
-# Author : PRAMOD DUTTA
-# Website :  https://scrolltest.com
+
 
 Feature: Verify Persons
 
